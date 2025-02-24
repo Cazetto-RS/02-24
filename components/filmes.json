@@ -1,0 +1,401 @@
+
+[
+    {
+        "adult": false,
+        "backdrop_path": "https://image.tmdb.org/t/p/w500/9nhjGaFLKtddDPtPaX5EmKqsWdH.jpg",
+        "genre_ids": [
+            10749,
+            878,
+            53
+        ],
+        "id": 950396,
+        "original_language": "en",
+        "original_title": "The Gorge",
+        "overview": "Dois agentes altamente treinados se aproximam à distância após serem enviados para proteger lados opostos de um desfiladeiro misterioso. Quando um mal emerge, eles precisam trabalhar juntos para sobreviver ao que está lá dentro.",
+        "popularity": 1495.874,
+        "poster_path": "https://image.tmdb.org/t/p/w500/7zL6RxMPmpPSdU5OTdVC4dtiKcr.jpg",
+        "release_date": "2025-02-13",
+        "title": "Entre Montanhas",
+        "video": false,
+        "vote_average": 7.799,
+        "vote_count": 1120
+    },
+    {
+        "adult": false,
+        "backdrop_path": "https://image.tmdb.org/t/p/w500/cVh8Af7a9JMOJl75ML3Dg2QVEuq.jpg",
+        "genre_ids": [
+            12,
+            10751,
+            16
+        ],
+        "id": 762509,
+        "original_language": "en",
+        "original_title": "Mufasa: The Lion King",
+        "overview": "Mufasa, um filhote órfão, perdido e sozinho, conhece um simpático leão chamado Taka, herdeiro de uma linhagem real. O encontro ao acaso dá início a uma grande jornada de um grupo extraordinário de deslocados em busca de seu destino, além de revelar a ascensão de um dos maiores reis das Terras do Orgulho.",
+        "popularity": 1207.142,
+        "poster_path": "https://image.tmdb.org/t/p/w500/iMVuv6Gz5fj7vZ51IjRF3AiW87y.jpg",
+        "release_date": "2024-12-18",
+        "title": "Mufasa: O Rei Leão",
+        "video": false,
+        "vote_average": 7.442,
+        "vote_count": 1310
+    },
+    {
+        "adult": false,
+        "backdrop_path": "https://image.tmdb.org/t/p/w500/rOMLLMGgDgGG6XeT3P8sUdUb8nl.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80
+        ],
+        "id": 1126166,
+        "original_language": "en",
+        "original_title": "Flight Risk",
+        "overview": "Um piloto de avião transporta um agente federal e um fugitivo para julgamento através das montanhas do Alasca. A tensão aumenta quando verdades são reveladas e ninguém a bordo parecem ser quem realmente são.",
+        "popularity": 912.172,
+        "poster_path": "https://image.tmdb.org/t/p/w500/4LPIIwWiedwHeWgRXOjcBaL1tnv.jpg",
+        "release_date": "2025-01-22",
+        "title": "Ameaça no Ar",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 213
+    },
+    {
+        "adult": false,
+        "backdrop_path": "https://image.tmdb.org/t/p/w500/zo8CIjJ2nfNOevqNajwMRO6Hwka.jpg",
+        "genre_ids": [
+            16,
+            12,
+            10751,
+            35
+        ],
+        "id": 1241982,
+        "original_language": "en",
+        "original_title": "Moana 2",
+        "overview": "Depois de receber um chamado inesperado de seus ancestrais navegadores, Moana vai viajar para mares distantes da Oceania, em águas perdidas em uma aventura perigosa.",
+        "popularity": 826.702,
+        "poster_path": "https://image.tmdb.org/t/p/w500/ulVUcVy919yt3IJKtmiJBzf4Kqt.jpg",
+        "release_date": "2024-11-21",
+        "title": "Moana 2",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 1665
+    },
+    {
+        "adult": false,
+        "backdrop_path": "https://image.tmdb.org/t/p/w500/zOpe0eHsq0A2NvNyBbtT6sj53qV.jpg",
+        "genre_ids": [
+            28,
+            878,
+            35,
+            10751
+        ],
+        "id": 939243,
+        "original_language": "en",
+        "original_title": "Sonic the Hedgehog 3",
+        "overview": "Sonic, Knuckles e Tails se reúnem contra um novo e poderoso adversário, Shadow, um vilão misterioso com poderes diferentes de tudo que eles já enfrentaram antes. Com suas habilidades superadas em todos os sentidos, a Equipe Sonic deve buscar uma aliança improvável na esperança de parar Shadow e proteger o planeta.",
+        "popularity": 712.402,
+        "poster_path": "https://image.tmdb.org/t/p/w500/tfM1T6tAivjvy0sLwt6Y9WvlmzB.jpg",
+        "release_date": "2024-12-19",
+        "title": "Sonic 3: O Filme",
+        "video": false,
+        "vote_average": 7.768,
+        "vote_count": 1953
+    },
+    {
+        "adult": false,
+        "backdrop_path": "https://image.tmdb.org/t/p/w500/7cNE2qydew1c8fqnlhWjkE3DHc2.jpg",
+        "genre_ids": [
+            28,
+            18,
+            12,
+            10752
+        ],
+        "id": 927342,
+        "original_language": "ta",
+        "original_title": "அமரன்",
+        "overview": "Honra, amor e sacrifício entram em conflito na vida do major Mukund Varadarajan e de sua esposa Indhu quando ele começa a subir na hierarquia do exército indiano.",
+        "popularity": 655.805,
+        "poster_path": "https://image.tmdb.org/t/p/w500/eCB06m1KUGilEOlIzb40nkQhVY0.jpg",
+        "release_date": "2024-10-31",
+        "title": "Major Imortal",
+        "video": false,
+        "vote_average": 7.4,
+        "vote_count": 155
+    },
+    {
+        "adult": false,
+        "backdrop_path": "https://image.tmdb.org/t/p/w500/qfAfE5auxsuxhxPpnETRAyTP5ff.jpg",
+        "genre_ids": [
+            28,
+            53,
+            878
+        ],
+        "id": 822119,
+        "original_language": "en",
+        "original_title": "Captain America: Brave New World",
+        "overview": "Após se encontrar com o recém-eleito presidente dos EUA, Thaddeus Ross, Sam se vê no meio de um incidente internacional. Ele deve descobrir o motivo por trás de uma conspiração global nefasta antes que o verdadeiro gênio faça o mundo inteiro ser dominado pelo vermelho.",
+        "popularity": 574.598,
+        "poster_path": "https://image.tmdb.org/t/p/w500/viUricKwbToOJIRrKOUr0Bg9rOY.jpg",
+        "release_date": "2025-02-12",
+        "title": "Capitão América: Admirável Mundo Novo",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 678
+    },
+    {
+        "adult": false,
+        "backdrop_path": "https://image.tmdb.org/t/p/w500/u7AZ5CdT2af8buRjmYCPXNyJssd.jpg",
+        "genre_ids": [
+            28,
+            35
+        ],
+        "id": 1160956,
+        "original_language": "zh",
+        "original_title": "熊猫计划",
+        "overview": "O astro de ação internacional Jackie Chan está envolvido em uma operação de resgate de um adorado panda do zoológico chamado Hu Hu.",
+        "popularity": 475.394,
+        "poster_path": "https://image.tmdb.org/t/p/w500/rO62kjEpxKoi22euZlM11o2hRJe.jpg",
+        "release_date": "2024-10-01",
+        "title": "Operação Panda",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 130
+    },
+    {
+        "adult": false,
+        "backdrop_path": "https://image.tmdb.org/t/p/w500/sc1abgWNXc29wSBaerrjGBih06l.jpg",
+        "genre_ids": [
+            878,
+            53
+        ],
+        "id": 1084199,
+        "original_language": "en",
+        "original_title": "Companion",
+        "overview": "Essa não é a sua história de amor convencional. Acompanhante Perfeita segue o casal Iris e Josh num final de semana entre amigos numa casa de campo luxuosa e tranquila. Apaixonados, os dois vivem um romance de cinema. Mas nem tudo é o que parece: Iris é um robô. A viagem toma, então, um rumo inesperado, com perseguições, sangue e revelações estrondosas. Será que o casal sairá vivo desse pesadelo?",
+        "popularity": 441.44,
+        "poster_path": "https://image.tmdb.org/t/p/w500/bjp5zXaIG5tOCtyzUzuf4lsdZub.jpg",
+        "release_date": "2025-01-22",
+        "title": "Acompanhante Perfeita",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 422
+    },
+    {
+        "adult": false,
+        "backdrop_path": "https://image.tmdb.org/t/p/w500/uJK0jjJ8QDOQw5lcNBwu059ht4D.jpg",
+        "genre_ids": [
+            10749,
+            18
+        ],
+        "id": 1294203,
+        "original_language": "en",
+        "original_title": "My Fault: London",
+        "overview": "Noah, de 18 anos, se muda dos EUA para Londres com a mãe, que recentemente se apaixonou por William, um rico empresário britânico. Noah conhece o filho de William, o bad boy Nick, e logo descobre uma atração que nenhum dos dois consegue evitar. Enquanto Noah passa o verão tentando se ajustar à nova vida, seu passado devastador a atingirá em cheio justo quando se apaixona pela primeira vez.",
+        "popularity": 399.682,
+        "poster_path": "https://image.tmdb.org/t/p/w500/grM1am6mYzxA84xDzTk23FQU7dG.jpg",
+        "release_date": "2025-02-12",
+        "title": "Minha Culpa: Londres",
+        "video": false,
+        "vote_average": 7.533,
+        "vote_count": 213
+    },
+    {
+        "adult": false,
+        "backdrop_path": "https://image.tmdb.org/t/p/w500/1ulX4rDlS97lbDi929PUrEi507V.jpg",
+        "genre_ids": [
+            28,
+            12,
+            53
+        ],
+        "id": 539972,
+        "original_language": "en",
+        "original_title": "Kraven the Hunter",
+        "overview": "Sergei Kravinoff é um grande caçador, que toma um soro mágico que lhe dá habilidades sobre-humanas e uma vida mais longa.",
+        "popularity": 375.241,
+        "poster_path": "https://image.tmdb.org/t/p/w500/pWvQsP9o1MQ4vQNjpL9QeYFXKOs.jpg",
+        "release_date": "2024-12-11",
+        "title": "Kraven: O Caçador",
+        "video": false,
+        "vote_average": 6.685,
+        "vote_count": 1267
+    },
+    {
+        "adult": false,
+        "backdrop_path": "https://image.tmdb.org/t/p/w500/hfTyu2VPBqLRPo2DauW8q7bh9bm.jpg",
+        "genre_ids": [
+            10751,
+            12,
+            35
+        ],
+        "id": 516729,
+        "original_language": "en",
+        "original_title": "Paddington in Peru",
+        "overview": "Paddington viaja para o Peru para visitar sua amada tia Lucy. Com a família Brown a tiracolo, uma aventura emocionante acontece quando um mistério os mergulha em uma jornada inesperada pela floresta amazônica e até os picos das montanhas do Peru.",
+        "popularity": 321.097,
+        "poster_path": "https://image.tmdb.org/t/p/w500/lmQnyeuRCDXf5MFNu3eyznO4FTn.jpg",
+        "release_date": "2024-11-08",
+        "title": "Paddington: Uma Aventura na Floresta",
+        "video": false,
+        "vote_average": 6.837,
+        "vote_count": 138
+    },
+    {
+        "adult": false,
+        "backdrop_path": "https://image.tmdb.org/t/p/w500/iXU87IdtNsYt7n6OigPJBDdbFf1.jpg",
+        "genre_ids": [
+            10751,
+            16,
+            35,
+            28
+        ],
+        "id": 774370,
+        "original_language": "en",
+        "original_title": "Dog Man",
+        "overview": "Metade humano, metade cão. O Homem-Cão nasce depois de um acidente entre um policial humano e seu fiel cachorro de estimação durante uma operação. Uma operação para salvar a vida dos dois realiza a fusão do corpo de um com a cabeça do outro. Sob essa nova identidade, o homem-cão vira então um protetor da cidade e precisa parar os planos de destruição do malvado gato e supervilão Pepê. Pronto para criar uma versão sua em miniatura, o pequeno Pepezinho, e duplicar sua capacidade criminosa, o gato, porém, perde o controle da situação e acaba precisando se unir com o homem-cão. Os dois precisam, então, correr contra o tempo para salvar o pequeno gatinho das garras de um inimigo em comum. Baseado na série de livros de sucesso de Dav Pilkey, Homem-Cão se transforma no herói que precisa ser e descobre o poder da família em meio a aventuras eletrizantes.",
+        "popularity": 302.76,
+        "poster_path": "https://image.tmdb.org/t/p/w500/iBZlbYSVOYjBJDwg4D3bcK0hE8F.jpg",
+        "release_date": "2025-01-24",
+        "title": "O Homem-Cão",
+        "video": false,
+        "vote_average": 7.773,
+        "vote_count": 86
+    },
+    {
+        "adult": false,
+        "backdrop_path": "https://image.tmdb.org/t/p/w500/vfkzNcVzTRCq3C2jYIZtIjSdwf7.jpg",
+        "genre_ids": [
+            27,
+            53,
+            28
+        ],
+        "id": 1247019,
+        "original_language": "th",
+        "original_title": "ธี่หยด 2",
+        "overview": "Em um mundo envolto em escuridão, uma força implacável busca retribuição, sem se deixar abater por limites ou moralidade.",
+        "popularity": 278.019,
+        "poster_path": "https://image.tmdb.org/t/p/w500/9G0czCAjBlZvrfmNhTPRyA14Ktj.jpg",
+        "release_date": "2024-10-10",
+        "title": "Quando a Morte Sussurra 2",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 65
+    },
+    {
+        "adult": false,
+        "backdrop_path": "https://image.tmdb.org/t/p/w500/rp49ILheIhBwHWiQUvDfVH1fPfI.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 1138749,
+        "original_language": "en",
+        "original_title": "The Island",
+        "overview": "Quando seu irmão é morto, o oficial da polícia de Los Angeles Mark deixa a cidade para retornar à ilha em que cresceu. Buscando respostas e, finalmente, vingança, ele logo se vê em uma batalha sangrenta com o magnata corrupto que assumiu a ilha paradisíaca.",
+        "popularity": 275.671,
+        "poster_path": "https://image.tmdb.org/t/p/w500/ajb1rMiorchfRemYHZCkbV9DBg6.jpg",
+        "release_date": "2023-07-21",
+        "title": "The Island",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 62
+    },
+    {
+        "adult": false,
+        "backdrop_path": "https://image.tmdb.org/t/p/w500/qSOMdbZ6AOdHR999HWwVAh6ALFI.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 1249289,
+        "original_language": "en",
+        "original_title": "Alarum",
+        "overview": "Dois espiões desonestos saem da rede, casam-se e são atacados no seu esconderijo de cabine remota por várias agências de informação que procuram um disco rígido roubado.",
+        "popularity": 269.218,
+        "poster_path": "https://image.tmdb.org/t/p/w500/6XVIRVQICfefW8UrjHVasraEgou.jpg",
+        "release_date": "2025-01-16",
+        "title": "Código Alarum",
+        "video": false,
+        "vote_average": 5.811,
+        "vote_count": 212
+    },
+    {
+        "adult": false,
+        "backdrop_path": "https://image.tmdb.org/t/p/w500/vZG7PrX9HmdgL5qfZRjhJsFYEIA.jpg",
+        "genre_ids": [
+            28,
+            878,
+            12
+        ],
+        "id": 912649,
+        "original_language": "en",
+        "original_title": "Venom: The Last Dance",
+        "overview": "Eddie e Venom estão fugindo. Perseguidos pelos dois mundos, a dupla é forçada a tomar uma decisão devastadora que vai fechar as cortinas da última rodada de Venom e Eddie.",
+        "popularity": 256.442,
+        "poster_path": "https://image.tmdb.org/t/p/w500/jQ92em8SMpu0ufGUtZNVlvxO4Qr.jpg",
+        "release_date": "2024-10-22",
+        "title": "Venom: A Última Rodada",
+        "video": false,
+        "vote_average": 6.785,
+        "vote_count": 2867
+    },
+    {
+        "adult": false,
+        "backdrop_path": "https://image.tmdb.org/t/p/w500/cdN7uvygA0AjzZPcsOspHKULLM3.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 549509,
+        "original_language": "en",
+        "original_title": "The Brutalist",
+        "overview": "Fugindo da Europa pós-guerra, um arquiteto visionário chega à América para reconstruir sua vida, carreira e casamento. Sozinho em um novo país estranho, ele se estabelece na Pensilvânia, onde um rico e proeminente industrial reconhece seu talento.",
+        "popularity": 254.482,
+        "poster_path": "https://image.tmdb.org/t/p/w500/tsVRsCGJ4bZG1xWfQkUgt71ystL.jpg",
+        "release_date": "2024-12-20",
+        "title": "O Brutalista",
+        "video": false,
+        "vote_average": 7.028,
+        "vote_count": 472
+    },
+    {
+        "adult": false,
+        "backdrop_path": "https://image.tmdb.org/t/p/w500/bHeUgZKqduubnNl8GshjrpHS9lF.jpg",
+        "genre_ids": [
+            28,
+            12,
+            18
+        ],
+        "id": 558449,
+        "original_language": "en",
+        "original_title": "Gladiator II",
+        "overview": "Anos depois de testemunhar a trágica morte do reverenciado herói Maximus nas mãos de seu tio malvado, Lucius se vê forçado a lutar no Coliseu depois que sua terra natal é conquistada por dois imperadores tirânicos, que agora governam Roma. Com o coração ardendo de raiva e o destino do Império pendurado por um fio, Lucius deve enfrentar perigos e inimigos, redescobrindo em seu passado a força e a honra necessárias para trazer a glória de Roma de volta ao seu povo. Prepare-se para uma jornada épica de coragem e vingança na sangrenta arena do Coliseu.",
+        "popularity": 231.292,
+        "poster_path": "https://image.tmdb.org/t/p/w500/342bly9MqveL65TnEFzx8TTUxcL.jpg",
+        "release_date": "2024-11-05",
+        "title": "Gladiador 2",
+        "video": false,
+        "vote_average": 6.765,
+        "vote_count": 2868
+    },
+    {
+        "adult": false,
+        "backdrop_path": "https://image.tmdb.org/t/p/w500/ybSA7fUbYHw8VeRiSJ7tgKJnYWZ.jpg",
+        "genre_ids": [
+            28,
+            53
+        ],
+        "id": 1410082,
+        "original_language": "en",
+        "original_title": "Sniper: The Last Stand",
+        "overview": "",
+        "popularity": 231.041,
+        "poster_path": "https://image.tmdb.org/t/p/w500/TVvIyCsFCmLk9MRLbAZi4X8f32.jpg",
+        "release_date": "2025-01-21",
+        "title": "Sniper: The Last Stand",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 106
+    }
+]
