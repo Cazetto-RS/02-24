@@ -1,13 +1,13 @@
 import React from 'react';
 import { StyleSheet, Text, View, Image, TouchableOpacity } from 'react-native';
 
-const CardFilme = ({ filme }) => {
+const CardFilme = ({ filme, onPress }) => {
   const limitarTexto = (texto, limite) => {
     return texto.length > limite ? texto.substring(0, limite) + '...' : texto;
   };
 
   return (
-    <TouchableOpacity style={styles.card} activeOpacity={0.9}>
+    <TouchableOpacity style={styles.card} activeOpacity={0.9} onPress={onPress}>
       <Image
         source={{ uri: `https://image.tmdb.org/t/p/w500${filme.poster_path}` }}
         style={styles.poster}
@@ -26,16 +26,14 @@ const CardFilme = ({ filme }) => {
 const styles = StyleSheet.create({
   card: {
     flexDirection: 'row',
-    backgroundColor: '#1A1A1A', // Fundo mais claro que preto
+    backgroundColor: '#1A1A1A',
     borderRadius: 12,
     marginHorizontal: 16,
     marginVertical: 8,
     padding: 12,
-    shadowColor: '#000',
-    shadowOffset: { width: 0, height: 4 },
-    shadowOpacity: 0.3,
-    shadowRadius: 6,
-    elevation: 5,
+    // Substitua as propriedades shadow* por boxShadow
+    boxShadow: '0px 4px 6px rgba(0, 0, 0, 0.3)', // Exemplo de sombra
+    elevation: 5, // Mantenha o elevation para Android
   },
   poster: {
     width: 100,
